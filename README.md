@@ -2,7 +2,7 @@
 
 1. 먼저, 해당 레포지토리를 clone합니다.
 
-git clone https://github.com/nudgecodelab/mocked_server
+git clone https://github.com/nudgecodelab/mocked_server.git
 
 2. 해당 폴더로 이동합니다.
 
